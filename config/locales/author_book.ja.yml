@@ -1,0 +1,4 @@
+ja:
+  activerecord:
+    models:
+      author_book: 著者

@@ -1,0 +1,8 @@
+ja:
+  activerecord:
+    models:
+      author: 著者
+    attributes:
+      author:
+        name: 著者
+        description: 紹介
