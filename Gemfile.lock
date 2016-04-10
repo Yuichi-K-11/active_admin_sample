@@ -17,6 +17,12 @@ GIT
       sass-rails
       sprockets (< 4)
 
+GIT
+  remote: git@github.com:vigetlabs/active_material.git
+  revision: 8974af649767f68554889c48b140c9aa50fc1f70
+  specs:
+    active_material (1.4.1)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -193,6 +199,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  active_material!
   activeadmin!
   byebug
   coffee-rails (~> 4.1.0)

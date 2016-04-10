@@ -47,3 +47,4 @@ end
 
 gem 'activeadmin', github: 'activeadmin'
 
+gem "active_material", git: "git@github.com:vigetlabs/active_material.git"
