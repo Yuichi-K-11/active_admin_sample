@@ -47,3 +47,5 @@ end
 
 gem 'activeadmin', github: 'activeadmin'
 
+gem 'bootstrap-sass'
+gem 'active_bootstrap_skin'
