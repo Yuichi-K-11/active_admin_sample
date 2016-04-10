@@ -47,3 +47,4 @@ end
 
 gem 'activeadmin', github: 'activeadmin'
 
+gem 'flattened_active_admin'
