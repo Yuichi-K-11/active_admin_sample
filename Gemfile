@@ -47,3 +47,4 @@ end
 
 gem 'activeadmin', github: 'activeadmin'
 
+gem 'face_of_active_admin'
