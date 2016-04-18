@@ -47,3 +47,4 @@ end
 
 gem 'activeadmin', github: 'activeadmin'
 
+gem 'active_admin_flat_skin'
